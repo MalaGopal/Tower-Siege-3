@@ -1,2 +1,2 @@
-# Tower-Siege-3
-Score points for hitting off boxes.
+# p5.play-boilerplate
+Boiler plate for p5.play
